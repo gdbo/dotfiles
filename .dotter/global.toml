@@ -1,0 +1,7 @@
+[helpers]
+
+[fish.files]
+fish = "~/.config/fish"
+
+[cargo.files]
+cargo = "~/.cargo/config"
